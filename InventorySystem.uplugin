@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "InventorySystem",
+	"Description": "MansurBM's Inventory System plugin for UE4.",
+	"Category": "Other",
+	"CreatedBy": "MansurBM Dev",
+	"CreatedByURL": "http://mansurbm.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "InventorySystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32",
+				"Android",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
